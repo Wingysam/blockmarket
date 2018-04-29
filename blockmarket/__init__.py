@@ -22,7 +22,7 @@ except:
     print(REDTEXT + 'Could not import html.parser.' + DEFAULTTEXT)
 
 class items:
-    def list():
+    def dict():
         global ctag
         global printdata
         global jsoncode
